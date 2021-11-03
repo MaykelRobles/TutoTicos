@@ -22,6 +22,15 @@
         <entry key="..\:/Users/Nixon/Documents/GitHub/TutoTicos/app/src/main/res/layout/materia_persona.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Nixon/Documents/GitHub/TutoTicos/app/src/main/res/layout/spinner_persona.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Nixon/Documents/GitHub/TutoTicos/app/src/main/res/mipmap-anydpi-v26/ic_logo.png.xml" value="0.2703125" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_datos_principales.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_horario.xml" value="0.67" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_iniciosesion.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_materia.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_pantalla_principal.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_perfiltutor.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_registro.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_registro_tutor.xml" value="0.1" />
+        <entry key="..\:/Users/mayke/OneDrive/Documentos/GitHub/TutoTicos/app/src/main/res/layout/lyt_terminos_condiciones.xml" value="0.22" />
       </map>
     </option>
   </component>
