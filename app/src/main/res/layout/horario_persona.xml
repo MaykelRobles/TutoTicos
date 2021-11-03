@@ -30,7 +30,7 @@
             android:id="@+id/txtHoraInicio"
             android:layout_width="183dp"
             android:layout_height="match_parent"
-            android:layout_marginRight="10dp"
+            android:layout_marginRight="15dp"
             android:background="@drawable/btn_perso_horario"
             android:ems="10"
             android:fontFamily="@font/nunito"
@@ -43,13 +43,14 @@
             android:id="@+id/txtHoraFinal"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:padding="3dp"
+            android:layout_marginRight="15dp"
             android:background="@drawable/btn_perso_horario"
-            android:textAlignment="center"
-            android:textColor="@color/white"
-            android:fontFamily="@font/nunito"
             android:ems="10"
-            android:inputType="time" />
+            android:fontFamily="@font/nunito"
+            android:inputType="time"
+            android:padding="3dp"
+            android:textAlignment="center"
+            android:textColor="@color/white" />
 
     </LinearLayout>
 

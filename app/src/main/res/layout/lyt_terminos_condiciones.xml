@@ -114,11 +114,12 @@
                 android:text="Acepto los terminos y condiciones"
                 android:textColor="@color/white"
                 android:textSize="12sp"
-                app:cornerRadius="8dp"
+                app:cornerRadius="20dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.498"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/linearLayout4" />
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout4"
+                tools:cornerRadius="20dp" />
         </LinearLayout>
 
     </LinearLayout>
